@@ -68,13 +68,25 @@ Calmify allows users to:
 ---
 
 ## 📸 Showcase
+
+### 🏠 Home & Discovery
 <p align="center">
-  <img src="![c1](https://github.com/user-attachments/assets/f27e0cd2-5681-4c73-a3f5-48ee6947562b)
-" width="250"/>
-  <!-- <img src="IMAGE2_URL" width="250"/>
-  <img src="IMAGE3_URL" width="250"/> -->
+  <img src="assets/images/c1.jpeg" width="200"/>
+  <img src="assets/images/c2.jpeg" width="200"/>
+  <img src="assets/images/c3.jpeg" width="200"/>
 </p>
->
+
+### 🎧 Session Experience
+<p align="center">
+  <img src="assets/images/c5.jpeg" width="250"/>
+  <img src="assets/images/c7.jpeg" width="250"/>
+</p>
+
+### 📊 Tracking & Journal
+<p align="center">
+  <img src="assets/images/c8.jpeg" width="250"/>
+  <img src="assets/images/c9.jpeg" width="250"/>
+</p>
 
 ---
 
